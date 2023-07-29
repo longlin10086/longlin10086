@@ -1,4 +1,9 @@
 ### Hi there 👋 I'm longlin
+- 🔭 I’m currently working on c++/python/latex
+- 🌱 I’m currently learning Mathematical modeling
+
+## GitHub 活跃度
+![longlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=longlin10086)
 
 <!--
 **longlin10086/longlin10086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
