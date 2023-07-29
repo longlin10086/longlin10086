@@ -1,8 +1,8 @@
-### Hi there 👋 I'm longlin
+### Hi there 👋 I'm longlin, currently studying in Harbin Institute of Technology(Shen Zhen).
 - 🔭 I’m currently working on c++/python/latex
 - 🌱 I’m currently learning Mathematical modeling
 
-## GitHub 活跃度
+## GitHub Stats
 ![longlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=longlin10086)
 
 <!--
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
