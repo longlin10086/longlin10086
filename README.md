@@ -5,6 +5,11 @@ Hi there 👋 I'm longlin, currently studying in Harbin Institute of Technology(
 ## GitHub Stats
 ![longlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=longlin10086)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longlin10086&layout=compact)
+
+## GitHub Visitor Counts
+<img src="https://count.getloli.com/get/@:longlin10086?theme=rule34">
+
 <!--
 **longlin10086/longlin10086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
