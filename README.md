@@ -1,4 +1,4 @@
-### Hi there 👋 I'm longlin, currently studying in Harbin Institute of Technology(Shen Zhen).
+Hi there 👋 I'm longlin, currently studying in Harbin Institute of Technology(Shen Zhen).
 - 🔭 I’m currently working on c++/python/latex
 - 🌱 I’m currently learning Mathematical modeling
 
