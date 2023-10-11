@@ -1,6 +1,8 @@
-Hi there 👋 I'm longlin, currently studying in Harbin Institute of Technology(Shen Zhen).
-- 🔭 I’m currently working on c++/python/latex
-- 🌱 I’m currently learning c sharp
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B" alt="Typing SVG" /></a>
+
+I'm longlin, currently studying in Harbin Institute of Technology(Shen Zhen).
+- 🔭 I’m currently working on **c++ / python / latex**
+- 🌱 I’m currently learning **ros2**
 
 ## GitHub Stats
 ![longlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=longlin10086)
