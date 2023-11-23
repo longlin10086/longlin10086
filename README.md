@@ -4,6 +4,7 @@
 I'm longlin, currently studying in Harbin Institute of Technology(Shen Zhen).
 - 🔭 I’m currently working on **c++ / python / latex**
 - 🌱 I’m currently learning **ros2**
+- 💬 You can communicate with me in **中文 | English**
 
 ## GitHub Stats 💡
 
