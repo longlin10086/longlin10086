@@ -2,7 +2,7 @@
 
 ## Self Intro 😉
 I'm longlin, currently studying in Harbin Institute of Technology(Shen Zhen).
-- 🔭 I’m currently working on **c++ / python / LaTeX**
+- 🔭 I’m currently working on **C++ / Python / LaTeX**
 - 🌱 I’m currently learning **CS144**
 - 💬 You can communicate with me in **中文 | English**
 
