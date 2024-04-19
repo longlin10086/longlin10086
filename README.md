@@ -6,6 +6,12 @@ I'm longlin, currently studying in Harbin Institute of Technology(Shen Zhen).
 - 🌱 I’m currently learning **CS144**
 - 💬 You can communicate with me in **中文 | English**
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,c,cpp,vim,bash,cmake,html,css,latex,linux,md,nginx,py,qt" />
+  </a>
+</p>
+
 ## GitHub Stats 💡
 
 <div align="center">
