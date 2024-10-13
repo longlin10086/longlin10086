@@ -3,8 +3,8 @@
 ## Self Intro 😉
 I'm longlin, currently studying in Harbin Institute of Technology(Shen Zhen).
 - 🔭 I’m currently working on **C++ / Python / LaTeX / Typst**
-- 🌱 I’m currently learning **CS144**
-- 💬 You can communicate with me in **中文 | English**
+- 🌱 I’m currently learning **JS / Network**
+- 💬 You can communicate with me in **中文 | English**, and I'm really interested in learning **日本語**
 
 <p align="center">
   <a href="https://skillicons.dev">
