@@ -1,10 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 ## Self Intro 😉
-I'm longlin, currently studying in Harbin Institute of Technology(Shen Zhen).
-- 🔭 I’m currently working on **C++ / Python / LaTeX / Typst**
-- 🌱 I’m currently learning **JS / Network**
-- 💬 You can communicate with me in **中文 | English**, and I'm really interested in learning **日本語**
+I'm longlin, currently graduated from Harbin Institute of Technology(Shen Zhen).
+- 🧑‍💻 I’m currently working in **Shopee** as a FE.
+- 💬 You can communicate with me in **中文 | 日本語 | English**, btw I can speak a little **廣東話**.
 
 <p align="center">
   <a href="https://skillicons.dev">
